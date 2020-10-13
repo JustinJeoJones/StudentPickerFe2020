@@ -1,0 +1,26 @@
+body {
+    margin: 0px;
+    background-color: steelblue;
+}
+.Main {
+    padding-bottom: 10%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    font-family: 'Racing Sans One', cursive;
+    background-color: skyblue;
+    border-bottom: 5px skyblue;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+.Title {
+    font-size: 3em;
+}
+.Question, #student {
+    font-size: 2em;
+}
+.StudentButton {
+    height: 100px;
+    width: 200px;
+}
